@@ -13,7 +13,7 @@ export default function HomePage() {
 
     useEffect(() => {
 
-        axios.get("http://localhost:8080/v1/category/")
+        axios.get("http://category-api-dev.up.railway.app/v1/category/")
         .then((response) =>setCategories(response.data))
 
     }, [])
