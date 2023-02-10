@@ -1,0 +1,73 @@
+[
+    {
+    "categoryId": 1,
+    "categoryName": "Appliances",
+    "categoryDescription": "A device or piece of equipment designed to perform a specific task, typically a domestic one.",
+    "itemList": [
+    {
+    "itemId": 119363,
+    "itemName": "Samsung 1.6-cu ft Over-the-Range Microwave",
+    "itemDescription": "Attractive stainless steel exterior complements modern kitchen decor",
+    "itemPrice": 199
+    }
+    ]
+    },
+    {
+    "categoryId": 2,
+    "categoryName": "Electrical",
+    "categoryDescription": "Device operating by or producing electricity.",
+    "itemList": [
+    {
+    "itemId": 728971,
+    "itemName": "Utilitech White Wireless Doorbell Kit",
+    "itemDescription": "Kit comes with 1 wireless push button (battery included)",
+    "itemPrice": 24.98
+    }
+    ]
+    },
+    {
+    "categoryId": 3,
+    "categoryName": "Paint",
+    "categoryDescription": "A colored substance which is spread over a surface and dries to leave a thin decorative or protective coating",
+    "itemList": [
+    {
+    "itemId": 953965,
+    "itemName": "Valspar Signature Ultra White",
+    "itemDescription": "This eggshell sheen is ideal for moderate-traffic areas of your home such as bedrooms, kids rooms, family rooms and hallways",
+    "itemPrice": 149
+    }
+    ]
+    },
+    {
+    "categoryId": 4,
+    "categoryName": "Hardware",
+    "categoryDescription": "Machinery, and other durable equipment.",
+    "itemList": [
+    {
+    "itemId": 643815,
+    "itemName": "VMaster Lock 9.06-in Steel Keyed Padlock",
+    "itemDescription": "Padlock application: for indoor and outdoor uses",
+    "itemPrice": 42.48
+    }
+    ]
+    },
+    {
+    "categoryId": 6,
+    "categoryName": "Plumbing",
+    "categoryDescription": "The system of pipes, tanks, fittings, and other apparatus required for the water supply, heating, and sanitation in a building.",
+    "itemList": [
+    {
+    "itemId": 523976,
+    "itemName": "1-in dia x 10-ft L 450 PSI PVC Pipe",
+    "itemDescription": "White pipe with red print that is used in potable water applications only",
+    "itemPrice": 3.57
+    },
+    {
+    "itemId": 674313,
+    "itemName": "Anatolia Tile Statuario Polished",
+    "itemDescription": "White and gray color palette with a larger number of pattern variations provides less repetition for a realistic stone look",
+    "itemPrice": 2.5
+    }
+    ]
+    }
+    ]
