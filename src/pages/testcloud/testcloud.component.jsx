@@ -7,7 +7,7 @@ export default function TestCloud(){
     const [response, setResponse] = useState([])
 
     function handleClick(){
-        axios.get("http://localhost:8080/v1/category/")
+        axios.get("https://category-api-production-4e60.up.railway.app/v1/category/")
         .then((resp) =>setResponse(resp.data))
     }
 
